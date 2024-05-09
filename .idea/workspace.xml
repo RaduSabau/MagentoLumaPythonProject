@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d91a71a6-9b55-43bd-929b-8c4d45ffe1b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/data_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/users-fixture.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/signin_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SauceDemoPythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SauceDemoPythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_signin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/create_account_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/create_account_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home-page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/account_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/config_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_create_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_create_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/signin_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/signin_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +43,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_signin.test_sign_in_with_valid_credentials.executor": "Run",
+    "Python tests.Python tests in test_signin.py.executor": "Run",
+    "Python.home_page.executor": "Run",
     "last_opened_file_path": "C:/Users/Radu Sabau/Desktop/Test Projects/MagentoLumaPythonProject"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_signin.test_sign_in_with_valid_credentials" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoPythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_signin.test_sign_in_with_valid_credentials&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_signin.test_sign_in_with_valid_credentials" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

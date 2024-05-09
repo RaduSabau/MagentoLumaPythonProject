@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 class MagentoHomePage:
     MAIN_PAGE_URL = "https://magento.softwaretestingboard.com/"
     CONSENT_BUTTON = (By.XPATH, "//button[@aria-label='Consent']")
-    CREATE_ACCOUNT_BUTTON = (By.LINK_TEXT, "https://magento.softwaretestingboard.com/customer/account/create/")
+    WELCOME_MESSAGE = (By.CLASS_NAME, "logged-in")
 
     def __init__(self, browser):
         self.browser = browser
@@ -21,3 +21,11 @@ class MagentoHomePage:
         create_account_button = self.wait.until(EC.presence_of_element_located(
             (By.XPATH, "//a[contains(text(),'Create an Account')]")))
         create_account_button.click()
+
+    def click_signin(self):
+        signin_button = self.wait.until(EC.presence_of_element_located((By.XPATH, "//a[contains(text(),'Sign In')]")))
+        signin_button.click()
+
+    def get_welcome_message(self):
+        welcome_text = self.browser.find_element(*self.WELCOME_MESSAGE).text
+        return welcome_text
