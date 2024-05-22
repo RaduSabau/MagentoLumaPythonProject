@@ -5,33 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d91a71a6-9b55-43bd-929b-8c4d45ffe1b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/test_signin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/pants_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_add_product_to_shopping_cart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/signin_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/signin_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RaduSabau"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RaduSabau&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RaduSabau/MagentoLumaPythonProject.git",
-    "accountId": "ff1d5dd5-9b6f-4c5a-a33f-dceb6b8f0455"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RaduSabau/MagentoLumaPythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;ff1d5dd5-9b6f-4c5a-a33f-dceb6b8f0455&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -41,15 +47,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_signin.test_sign_in_with_valid_credentials.executor": "Run",
-    "Python tests.Python tests in test_signin.py.executor": "Run",
-    "Python.home_page.executor": "Run",
-    "last_opened_file_path": "C:/Users/Radu Sabau/Desktop/Test Projects/MagentoLumaPythonProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_add_product_to_shopping_cart.test_homepage_widgets.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_account.test_create_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_homepage_widgets.test_homepage_widgets.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_signin.test_sign_in_with_valid_credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_signin.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_page.executor&quot;: &quot;Run&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Radu Sabau/Desktop/Test Projects/MagentoLumaPythonProject&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_add_product_to_shopping_cart.test_homepage_widgets">
+    <configuration name="Python tests for test_add_product_to_shopping_cart.test_homepage_widgets" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoPythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_add_product_to_shopping_cart.test_homepage_widgets&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_create_account.test_create_account" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoPythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_create_account.test_create_account&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_signin.test_sign_in_with_valid_credentials" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SauceDemoPythonProject" />
       <option name="ENV_FILES" value="" />
@@ -65,9 +104,27 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for tests.test_add_product_to_shopping_cart.test_homepage_widgets" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoPythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_add_product_to_shopping_cart.test_homepage_widgets&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_add_product_to_shopping_cart.test_homepage_widgets" />
+        <item itemvalue="Python tests.Python tests for test_create_account.test_create_account" />
         <item itemvalue="Python tests.Python tests for test_signin.test_sign_in_with_valid_credentials" />
+        <item itemvalue="Python tests.Python tests for tests.test_add_product_to_shopping_cart.test_homepage_widgets" />
       </list>
     </recent_temporary>
   </component>
